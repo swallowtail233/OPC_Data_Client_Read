@@ -1,6 +1,6 @@
 ﻿/*
-OPC Data Client 範例程式 - 寫入UA server
-說明: 一次寫入1個、多個、陣列 點位
+OPC Data Client 範例程式
+說明:  連接 OPC UA server, 讀取1個、多個 點位資料
 
 請先下載並安裝Data Client 程式開發工具, 在Visual Studio設定好NuGet套件, 便能使用函式庫
 執行程式前, 請先重建方案, 套用函式庫
